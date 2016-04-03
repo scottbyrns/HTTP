@@ -29,7 +29,7 @@ let package = Package(
     dependencies: [
         .Package(url: "https://github.com/scottbyrns/MediaType.git", majorVersion: 0, minor: 4),
         .Package(url: "https://github.com/Zewo/String.git", majorVersion: 0, minor: 4),
-        .Package(url: "https://github.com/Zewo/URI.git", majorVersion: 0, minor: 4),
+        .Package(url: "https://github.com/scottbyrns/URI.git", majorVersion: 0, minor: 4),
         .Package(url: "https://github.com/SwiftX/S4.git", majorVersion: 0, minor: 1),
     ]
 )
